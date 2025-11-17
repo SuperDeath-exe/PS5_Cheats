@@ -830,3 +830,4 @@ PPSA07411_01.100.000.shn=Resident Evil 4 Remake
 CUSA39420_01.02.shn=Hollow Knight - Silk Song
 PPSA03845_01.000.004.shn=Dead Space
 CUSA18723_01.22.shn=Elden Ring - Shadow Of The Erdtree
+PPSA03396_01.000.000.shn=The Last Of Us Part I
