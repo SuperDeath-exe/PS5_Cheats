@@ -831,3 +831,7 @@ CUSA39420_01.02.shn=Hollow Knight - Silk Song
 PPSA03845_01.000.004.shn=Dead Space
 CUSA18723_01.22.shn=Elden Ring - Shadow Of The Erdtree
 PPSA03396_01.000.000.shn=The Last Of Us Part I
+PPSA01473_01.000.000.shn=Ratchet & Clank A Rift Apart
+CUSA55613_01.10.shn=Plants vs Zombies Replanted
+PPSA01556_01.210.000.shn=Resident Evil 8 - Village
+PPSA01556_01.001.000.shn=Resident Evil 8 - Village
